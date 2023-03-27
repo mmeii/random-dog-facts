@@ -2,9 +2,7 @@ import React from "react";
 import { Autocomplete } from "@mui/material";
 import { TextField } from "@mui/material";
 
-const numbers = [
- '1', '2', '3', '4', '5'
-]
+const numbers = ["1", "2", "3", "4", "5"];
 
 const DropdownBox = () => {
   return (
